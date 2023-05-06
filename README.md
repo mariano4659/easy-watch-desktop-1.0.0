@@ -1,8 +1,9 @@
 # Easy watch desktop for Windows
-![Texto alternativo](https://github.com/mariano4659/easy-watch-desktop-1.0.0/blob/main/example.png) 
- 
 
 [![GitHub license](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/mariano4659/easy-watch-desktop-1.0.0/blob/main/LICENSE)
+
+<img src="https://github.com/mariano4659/easy-watch-desktop-1.0.0/blob/main/exaples/example.png" alt="Texto alternativo" width="900">
+<img src="https://github.com/mariano4659/easy-watch-desktop-1.0.0/blob/main/exaples/example_options.png" alt="Options" width="500">
 
 ## Description
 
