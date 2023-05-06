@@ -1,5 +1,5 @@
 # Easy watch desktop for Windows
- 
+![Texto alternativo](https://github.com/mariano4659/easy-watch-desktop-1.0.0/blob/main/example.png) 
  
 
 [![GitHub license](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/mariano4659/easy-watch-desktop-1.0.0/blob/main/LICENSE)
@@ -30,5 +30,5 @@ Right-click on the clock to access the configuration options. Here's a list of a
 
 ## License
 
-This project is licensed under the terms of the [Apache License 2.0](https://github.com/tu_usuario/tu_proyecto/blob/main/LICENSE).
+This project is licensed under the terms of the [Apache License 2.0](https://github.com/mariano4659/easy-watch-desktop-1.0.0/blob/main/LICENSE).
 
